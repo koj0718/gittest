@@ -10,7 +10,7 @@ public class FunctionalTest {
 		return "goodee";
 	}
 	
-	public void conflick() {
+	public void conflict() {
 		System.out.println("충돌충돌충돌");
 	}
 	
