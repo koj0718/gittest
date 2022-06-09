@@ -13,5 +13,9 @@ public class FunctionalTest {
 	public void conflick() {
 		System.out.println("충돌충돌충돌");
 	}
+	
+	public int getAge() {
+		return 19;
+	}
 
 }
