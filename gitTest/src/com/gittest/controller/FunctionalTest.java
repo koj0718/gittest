@@ -9,5 +9,9 @@ public class FunctionalTest {
 	public String getGoodee() {
 		return "goodee";
 	}
+	
+	public void conflick() {
+		System.out.println("충돌충돌충돌");
+	}
 
 }
